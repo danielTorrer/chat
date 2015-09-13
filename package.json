@@ -1,0 +1,11 @@
+{
+  "name": "Optotipos",
+  "version": "0.0.1",
+  "description": "Optotupo",
+  "dependencies": {
+    	"socket.io": "~0.9.16",
+	    "express"  : "*",
+        "moment"  : "*"
+}
+
+}
